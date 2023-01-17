@@ -22,7 +22,7 @@ nav{
     font-size: 45px;
 }
 .primary-color{
-    color: #FD6E0A;
+    color: #55a2e5;
 }
 nav li{
     list-style: none;
@@ -35,7 +35,7 @@ nav ul{
 .btn-primary{
     font-size: 20px;
     font-weight: 500;
-    background-color: #FD6E0A;
+    background-color: #55a2e5;
     color: rgb(255, 255, 255);
     padding: 18px 35px;
     border: 0;
@@ -197,7 +197,7 @@ tr td th{
 .contact{
     display: flex;
     gap: 100px;
-    background: #FFF8F3;
+    background: #95eff9;
     padding: 130px 200px;
 }
 .contact input[type=text], input[type=email], textarea{
