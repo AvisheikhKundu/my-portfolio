@@ -197,7 +197,7 @@ tr td th{
 .contact{
     display: flex;
     gap: 100px;
-    background: #95eff9;
+    background: #a7c9e7;
     padding: 130px 200px;
 }
 .contact input[type=text], input[type=email], textarea{
