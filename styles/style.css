@@ -5,10 +5,10 @@
 
 /* header and navigation styles */
 .header{
-    background-color: #FFF8F3;
-    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-color: #d8e1ee;
+    background-image:  url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right, left;
+    background-position:  left;
 
 }
 
@@ -71,7 +71,7 @@ main{
 
 .about{
     margin-top: 100px;
-    background: #FFF8F3;
+    background: #d8e1ee;
     border-radius: 10px;
     padding: 100px 150px;
 }
@@ -197,7 +197,7 @@ tr td th{
 .contact{
     display: flex;
     gap: 100px;
-    background: #c4e4ff;
+    background: #d8e1ee;
     padding: 130px 200px;
 }
 .contact input[type=text], input[type=email], textarea{
